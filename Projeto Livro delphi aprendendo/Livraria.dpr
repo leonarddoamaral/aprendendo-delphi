@@ -1,4 +1,4 @@
-program PrimeiroSistemaDelphi;
+program Livraria;
 
 uses
   Vcl.Forms,
